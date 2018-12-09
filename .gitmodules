@@ -1,0 +1,9 @@
+[submodule "gym"]
+	path = gym
+	url = https://github.com/openai/gym.git
+[submodule "reinforcement-learning"]
+	path = reinforcement-learning
+	url = https://github.com/udacity/reinforcement-learning.git
+[submodule "5_quadcopter"]
+	path = 5_quadcopter
+	url = https://github.com/udacity/RL-Quadcopter-2
